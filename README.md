@@ -61,7 +61,7 @@ Software developer with a strong interest in building scalable web and mobile ap
 <br/>
 
 ### Full-Stack Development 
-<a href ="https://github.com/ankitssgithuba">
+<a href ="https://github.com/ankitssgithub">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/html-5--v1.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -74,9 +74,23 @@ Software developer with a strong interest in building scalable web and mobile ap
 </a>
 <br/>
 
+<!-- ### App Development Stack
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+
 
 <br/>
+<br/> -->
+
+### Other Interests
+<a href ="https://github.com/ankitssgithub">
+
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/figma--v1.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/arduino.png" />
+</a>
 <br/>
+<br/>
+
 
 
 # 📊 GitHub Stats:
