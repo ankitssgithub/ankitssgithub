@@ -21,7 +21,7 @@ Software developer with a strong interest in building scalable web and mobile ap
 <!-- <a href="https://codeforces.com/profile/ankitsingh" target="blank">
   <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ankitsingh" height="30" width="30" />
 </a> -->
-<a href="https://www.leetcode.com/ankitsingh" target="blank">
+<a href="https://leetcode.com/u/ankitsinghoffical/" target="blank">
   <img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="ankitsingh" height="32" width="32" />
 </a>
 <a href="https://atcoder.jp/users/ankitsingh" target="blank">
