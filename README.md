@@ -9,7 +9,6 @@
 
 Software developer with a strong interest in building scalable web and mobile applications.<br>Experienced in JavaScript and Flutter (Dart), with hands-on work in UI design and full-stack fundamentals.<br><br>Currently focused on developing real-time chat platforms, social applications, and<br>avatar-based user experiences. I enjoy turning ideas into practical products and<br>learning new technologies through real-world projects.<br><br>
 <!-- </p> -->
-# 💻 Tech Stack:
 ### Coding Profiles
 
 <a href="https://www.codechef.com/users/ankitsingh" target="blank">
