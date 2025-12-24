@@ -77,8 +77,6 @@ Software developer with a strong interest in building scalable web and mobile ap
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-
-<br/>
 <br/> -->
 ### Other Interests
 <a href ="https://github.com/ankitssgithub">
