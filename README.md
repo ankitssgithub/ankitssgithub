@@ -15,7 +15,7 @@ Software developer with a strong interest in building scalable web and mobile ap
 <a href="https://www.codechef.com/users/ankitsingh" target="blank">
   <img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="ankitsingh" height="32" width="37" />
 </a>
-<a href="https://www.hackerrank.com/ankitsingh" target="blank">
+<a href="https://www.hackerrank.com/profile/ankite132" target="blank">
   <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="ankitsingh" height="32" width="32" />
 </a>
 <!-- <a href="https://codeforces.com/profile/ankitsingh" target="blank">
